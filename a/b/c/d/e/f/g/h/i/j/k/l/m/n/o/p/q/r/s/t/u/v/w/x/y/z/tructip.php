@@ -46,7 +46,7 @@ https://live1.hztx2020.com/live/14360822_93576a7ab33c7f2ecb7f837cb88eaef7_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hazm Youths vs Al-Nasr Youth" tvg-logo="https://media2.16m50.tv/media/club/4930.webp" group-title="truct-tiep live",LIVE Al Hazm Youths vs Al-Nasr Youth [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14674368_cc3ede3b51a363c013792d155ecbd4be_autoChange.m3u8?auth_key=1795888177-0-0-a8cf78c0010609fa12a9494fe369b052
+https://live.hztx2020.com/live/14674368_cc3ede3b51a363c013792d155ecbd4be_autoChange.m3u8?auth_key=1795888285-0-0-977bf9e4528b9e49d10eb1a7631b9e0b
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lincoln City vs Wolverhampton Wanderers" tvg-logo="https://media2.16m50.tv/media/club/3037.webp" group-title="truct-tiep live",LIVE Lincoln City vs Wolverhampton Wanderers [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -59,3 +59,11 @@ https://live.hztx2020.com/live/14716256_f1c9c9fe8369c9cbd5f9de965cbdb1bd_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14075848_9463d3811e69d3426f3f9611a6cb2ee8_autoChange.m3u8?auth_key=1795887049-0-0-dbe8f16cd8cf62ea7bf81d8bed6063d1
+#EXTINF:-1 tvg-id="" tvg-name="GD Chaves vs CD Tondela" tvg-logo="https://media2.16m50.tv/media/club/1439.webp" group-title="truct-tiep live",GD Chaves vs CD Tondela [21:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live5.hztx2020.com/live/14103256_ef5802bdfb0e38f0aae1e96815d03c92_autoChange.m3u8?auth_key=1795888285-0-0-d7b01772d7926d9347dfcbb001f610ba
+#EXTINF:-1 tvg-id="" tvg-name="Frosinone vs Parma" tvg-logo="https://media2.16m50.tv/media/club/347.webp" group-title="truct-tiep live",Frosinone vs Parma [21:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/13980696_1004c43f0416095ec38d074460c9a3f6_autoChange.m3u8?auth_key=1795888285-0-0-0995409d4cd2ce26211a5a677daae854
