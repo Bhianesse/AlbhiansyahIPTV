@@ -3,6 +3,30 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14208399_fcdde7dea95bae3a0325d94b568424ec_autoChange.m3u8?auth_key=1795908455-0-0-9a8a7b0975cfe63fff98fef5077ef922
+#EXTINF:-1 tvg-id="" tvg-name="LIVE SC Austria Lustenau vs SK Rapid Wien" tvg-logo="https://media2.16m50.tv/media/club/1356.webp" group-title="truct-tiep live",LIVE SC Austria Lustenau vs SK Rapid Wien [64']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14071002_72f5bc3f6efb154b90eec006e1b13899_autoChange.m3u8?auth_key=1795908455-0-0-c95a436dc0624c575b6ce460080e8ee2
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Macara vs Liga Dep Universitaria Quito" tvg-logo="https://media2.16m50.tv/media/club/974.webp" group-title="truct-tiep live",LIVE Macara vs Liga Dep Universitaria Quito [66']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14462517_6fd676c61c3b8cd843d76813fbdaa256_autoChange.m3u8?auth_key=1795908455-0-0-6fe0d11a7ba5c3f902eee1f408085bb2
+#EXTINF:-1 tvg-id="" tvg-name="LIVE AS FAR Rabat vs Durban City FC" tvg-logo="https://media2.16m50.tv/media/club/547.webp" group-title="truct-tiep live",LIVE AS FAR Rabat vs Durban City FC [64']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14630832_b38e2cd89567c577d3476511b3c9426e_autoChange.m3u8?auth_key=1795908455-0-0-07f6175dc3a96b13f8c56f88f516134a
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Raja Club Athletic vs ASKO Kara" tvg-logo="https://media2.16m50.tv/media/club/5208.webp" group-title="truct-tiep live",LIVE Raja Club Athletic vs ASKO Kara [65']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14630834_1ecb67bc368dadb248861e2929fcc8e2_autoChange.m3u8?auth_key=1795908455-0-0-9d7bab696ce09254e1854c13804fdfdd
+#EXTINF:-1 tvg-id="" tvg-name="LIVE KSC Lokeren vs Beerschot Wilrijk" tvg-logo="https://media2.16m50.tv/media/club/6033.webp" group-title="truct-tiep live",LIVE KSC Lokeren vs Beerschot Wilrijk [68']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14041453_d2dd02354df9dc84852f2115444c2923_autoChange.m3u8?auth_key=1795911862-0-0-ec07dd2a7cce2981c96f8ae7bcd5095d
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Houston Dynamo vs San Jose Earthquakes" tvg-logo="https://media2.16m50.tv/media/club/5026.webp" group-title="truct-tiep live",LIVE Houston Dynamo vs San Jose Earthquakes [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14666902_24c59b94cdcd31c73c700145735ed598_autoChange.m3u8?auth_key=1795908455-0-0-05b9385424aa83a234d53a93b9eaabee
 #EXTINF:-1 tvg-id="" tvg-name="LIVE VfL Osnabrück vs Hannover 96" tvg-logo="https://media2.16m50.tv/media/club/4391.webp" group-title="truct-tiep live",LIVE VfL Osnabrück vs Hannover 96 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -23,6 +47,10 @@ https://live1.hztx2020.com/live/13998873_505ba0e34f1717ef5159dc3b8bb933c9_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/13998875_24976158b4e7dd29084a2675a5107c5d_autoChange.m3u8?auth_key=1795911864-0-0-2fd97225e02f3271a0622bf3d3e87ef8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE RC Sporting Charleroi vs SK Beveren" tvg-logo="https://media2.16m50.tv/media/club/4733.webp" group-title="truct-tiep live",LIVE RC Sporting Charleroi vs SK Beveren [1']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live5.hztx2020.com/live/14039583_580dcbe8633c8b6abf94f86194fe2108_autoChange.m3u8?auth_key=1795911864-0-0-c593def6e047a2271fce5d9e17eeae0e
 #EXTINF:-1 tvg-id="" tvg-name="LIVE KVSK Lommel vs Zulte-Waregem" tvg-logo="https://media2.16m50.tv/media/club/4981.webp" group-title="truct-tiep live",LIVE KVSK Lommel vs Zulte-Waregem [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
