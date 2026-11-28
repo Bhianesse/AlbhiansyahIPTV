@@ -1,48 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Pattani vs Singha Chiangrai United" tvg-logo="https://media2.16m50.tv/media/club/6072.webp" group-title="truct-tiep live",LIVE Pattani vs Singha Chiangrai United [66']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14184613_0211a7bb9dfa249014ee54fa44fe01a4_autoChange.m3u8?auth_key=1795883365-0-0-461b6ad24eea8e1014e9dbf0081509af
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Obolon Kyiv vs Zorya" tvg-logo="https://media2.16m50.tv/media/club/3546.webp" group-title="truct-tiep live",LIVE Obolon Kyiv vs Zorya [64']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14075766_33e0f9bd5dac3176f58e10d24e37bc7c_autoChange.m3u8?auth_key=1795883365-0-0-b95ab01a726fd0e955dd8a1e9ac64a67
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Rubin Kazan vs Akron Togliatti" tvg-logo="https://media2.16m50.tv/media/club/6361.webp" group-title="truct-tiep live",LIVE Rubin Kazan vs Akron Togliatti [66']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/2425885_4d27def07fe67400f2103430e48d10e4_autoChange.m3u8?auth_key=1795883365-0-0-fa19b9c2122823c53940e59873bdc14b
 #EXTINF:-1 tvg-id="" tvg-name="LIVE AVS Futebol SAD vs Leixoes" tvg-logo="https://media2.16m50.tv/media/club/4350.webp" group-title="truct-tiep live",LIVE AVS Futebol SAD vs Leixoes [70']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14103257_c50c2f8f87ecef228c4f435c36788911_autoChange.m3u8?auth_key=1795883365-0-0-00a7b9c3f7c3cce150ebe8d0a60949b0
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Bac Ninh vs SHB Da Nang" tvg-logo="https://media2.16m50.tv/media/club/5542.webp" group-title="truct-tiep live",LIVE Bac Ninh vs SHB Da Nang [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/14360820_7fd23f67c7b9e6ac21e422243e65881b_autoChange.m3u8?auth_key=1795883373-0-0-b2c2b2a04f3ddb58871da0be32440562
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Quy Nhon United vs Khatoco Khanh Hoa" tvg-logo="https://media2.16m50.tv/media/club/5768.webp" group-title="truct-tiep live",LIVE Quy Nhon United vs Khatoco Khanh Hoa [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14360450_ef6101f10c21ce8c0a4da64c23bcec95_autoChange.m3u8?auth_key=1795883365-0-0-509afdc226931fdf5aa2497c262637b1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Cong An Ho Chi Minh City vs Hoang Anh Gia Lai" tvg-logo="https://media2.16m50.tv/media/club/2475.webp" group-title="truct-tiep live",LIVE Cong An Ho Chi Minh City vs Hoang Anh Gia Lai [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14360821_6aec7012e1a31232f20bace0fd83e812_autoChange.m3u8?auth_key=1795883372-0-0-2f9d6689f55b21456680824f9c4e5c83
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Aguilas-UMak FC vs Manila Digger FC" tvg-logo="https://media2.16m50.tv/media/club/5536.webp" group-title="truct-tiep live",LIVE Aguilas-UMak FC vs Manila Digger FC [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14437757_9d328848b2fdcf57fe6411282e58819f_autoChange.m3u8?auth_key=1795883365-0-0-218351af14501682e174a88dec11da4c
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Latvia Women vs Lithuania Women" tvg-logo="https://media2.16m50.tv/media/club/3012.webp" group-title="truct-tiep live",LIVE Latvia Women vs Lithuania Women [64']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/76810838_eee7cbdfbd005620539b4c0bb4a9e69f_autoChange.m3u8?auth_key=1795883365-0-0-fb030bb0d7f6b14d1cd8bcb9dfec890e
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Quang Ninh vs Ho Chi Minh City" tvg-logo="https://media2.16m50.tv/media/club/1057.webp" group-title="truct-tiep live",LIVE Quang Ninh vs Ho Chi Minh City [61']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/63kv9igd52zfx7e_9f694c3dabe0bffac3bca11dba63add4_autoChange.m3u8?auth_key=1795883366-0-0-66d115f7c6673231c5984e761ff9b967
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Gornik Leczna vs Swit Szczecin" tvg-logo="https://media2.16m50.tv/media/club/4883.webp" group-title="truct-tiep live",LIVE Gornik Leczna vs Swit Szczecin [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14072732_ce923181e1a321d98a77dc5a5676729d_autoChange.m3u8?auth_key=1795883366-0-0-e517a348a686f1772af5fa4fdbe4be60
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Chainat Hornbill FC vs Chanthaburi FC" tvg-logo="https://media2.16m50.tv/media/club/3008.webp" group-title="truct-tiep live",LIVE Chainat Hornbill FC vs Chanthaburi FC [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -59,7 +23,7 @@ https://live.hztx2020.com/live/13534458_81d8ea6402efd2c02734b13238ff04da_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13534459_692f2e87cc2f69a49ed4caecb332f43e_autoChange.m3u8?auth_key=1795883366-0-0-3176c405b0f060206ea7bb88eca2798b
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Shenzhen Team vs Dongguan Team" tvg-logo="https://media2.16m50.tv/media/club/15214.webp" group-title="truct-tiep live",LIVE Shenzhen Team vs Dongguan Team [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Shenzhen Team vs Dongguan Team" tvg-logo="https://media2.16m50.tv/media/club/15214.webp" group-title="truct-tiep live",LIVE Shenzhen Team vs Dongguan Team [82']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/ezk96ij0jl6i1kn_2f6171d8b2c279603c182a91c0be1c77_autoChange.m3u8?auth_key=1795883368-0-0-5ffb31ded6ec75e2d5d4e8c37c0949e1
@@ -103,7 +67,7 @@ https://live.hztx2020.com/live/xvkjoi29wgga879_e0da061364dd421284e90ff5d21661ee_
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/o07dnindroycmkn_1703518294118a11adc914418bc70691_autoChange.m3u8?auth_key=1795883369-0-0-8138059ffce81975d9e7488c8d9146fd
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Wanning Team vs Wuzhishan Team" tvg-logo="https://media2.16m50.tv/media/club/26180.webp" group-title="truct-tiep live",LIVE Wanning Team vs Wuzhishan Team [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Wanning Team vs Wuzhishan Team" tvg-logo="https://media2.16m50.tv/media/club/26180.webp" group-title="truct-tiep live",LIVE Wanning Team vs Wuzhishan Team [72']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/ndkz6i2m5lpsxq3_e4b655292a3779d6f189fe77ae6171f6_autoChange.m3u8?auth_key=1795883369-0-0-1f22c648743522288a9ec718b06274f6
@@ -122,16 +86,16 @@ https://live.hztx2020.com/live/9gklzi5lg42im7x_e0fc147f2e9d1643a8993ef101ce1878_
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Guangan Team vs Bazhong Team" tvg-logo="https://media2.16m50.tv/media/club/28167.webp" group-title="truct-tiep live",LIVE Guangan Team vs Bazhong Team [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/63kv9i6mp01fx7e_8fed7f7176a7f6e152acd78919dd3953_autoChange.m3u8?auth_key=1795884936-0-0-724e2bbb57c3b1fcf7ab00ba6ceab65d
+https://live.hztx2020.com/live/63kv9i6mp01fx7e_8fed7f7176a7f6e152acd78919dd3953_autoChange.m3u8?auth_key=1795885181-0-0-92a3f91a33c6beda22e79679ca635a37
 #EXTINF:-1 tvg-id="" tvg-name="LIVE China Women vs Thailand Women" tvg-logo="https://media2.16m50.tv/media/club/1004.webp" group-title="truct-tiep live",LIVE China Women vs Thailand Women [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14693027_ffb7f799f900fc442bd0b8ed90eac60f_autoChange.m3u8?auth_key=1795883430-0-0-6319a735b7d318c07442048648d0587e
-#EXTINF:-1 tvg-id="" tvg-name="LIVE HNK Segesta Sisak vs NK Dubrava" tvg-logo="https://media2.16m50.tv/media/club/3783.webp" group-title="truct-tiep live",LIVE HNK Segesta Sisak vs NK Dubrava [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE HNK Segesta Sisak vs NK Dubrava" tvg-logo="https://media2.16m50.tv/media/club/3783.webp" group-title="truct-tiep live",LIVE HNK Segesta Sisak vs NK Dubrava [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14167837_b45c9d8333ac52f8eea6596102149106_autoChange.m3u8?auth_key=1795883431-0-0-c7770505f8248db8fd257ec4540aefcd
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Holstein Kiel vs 1. FC Kaiserslautern" tvg-logo="https://media2.16m50.tv/media/club/2824.webp" group-title="truct-tiep live",LIVE Holstein Kiel vs 1. FC Kaiserslautern [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Holstein Kiel vs 1. FC Kaiserslautern" tvg-logo="https://media2.16m50.tv/media/club/2824.webp" group-title="truct-tiep live",LIVE Holstein Kiel vs 1. FC Kaiserslautern [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14099489_67faeaa054deb04080f8295c61455bb7_autoChange.m3u8?auth_key=1795883451-0-0-1216993066d3876cd995acd50b25a6d5
@@ -139,7 +103,7 @@ https://live2.hztx2020.com/live/14099489_67faeaa054deb04080f8295c61455bb7_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14099735_d378d9ff36576947be8d7f98557f5697_autoChange.m3u8?auth_key=1795883470-0-0-6fc385045f1c7d6c4053728e97a33c9f
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Hertha Berlin vs Karlsruher SC" tvg-logo="https://media2.16m50.tv/media/club/6079.webp" group-title="truct-tiep live",LIVE Hertha Berlin vs Karlsruher SC [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Hertha Berlin vs Karlsruher SC" tvg-logo="https://media2.16m50.tv/media/club/6079.webp" group-title="truct-tiep live",LIVE Hertha Berlin vs Karlsruher SC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14099488_e69e520443d9c9663e69b139a60acda8_autoChange.m3u8?auth_key=1795883470-0-0-f2984ab185b88856f392dead35876cc5
@@ -151,7 +115,23 @@ https://live2.hztx2020.com/live/14302266_eaf3887314f9b787e6375b85d3328518_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14669974_e14f443c62bfac008fbd2d4abe7887f7_autoChange.m3u8?auth_key=1795883432-0-0-8432451adaeb22ed6a80a0d3b83419d6
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Madura United vs Java United F.C." tvg-logo="https://media2.16m50.tv/media/club/3493.webp" group-title="truct-tiep live",LIVE Madura United vs Java United F.C. [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14302265_21cf00614707a1207d11583cb5749628_autoChange.m3u8?auth_key=1795883452-0-0-c1d97abe2f92a5639030bc3d776d94ed
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Rasisalai United vs Buriram United" tvg-logo="https://media2.16m50.tv/media/club/2686.webp" group-title="truct-tiep live",LIVE Rasisalai United vs Buriram United [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live5.hztx2020.com/live/14184615_4930f7c1cd4f24607736e25d6f1d0751_autoChange.m3u8?auth_key=1795883471-0-0-36b487ba67604836e26ac342e379cee5
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Hillerod Fodbold vs Vendsyssel" tvg-logo="https://media2.16m50.tv/media/club/3152.webp" group-title="truct-tiep live",LIVE Hillerod Fodbold vs Vendsyssel [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/13995283_99db34d4e14e6e0de93fafa9a5f12571_autoChange.m3u8?auth_key=1795883471-0-0-aa46e20fb00ac5c6957eead0fa0d78e1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE BEC Tero Sasana vs Nakhon Pathom FC" tvg-logo="https://media2.16m50.tv/media/club/5807.webp" group-title="truct-tiep live",LIVE BEC Tero Sasana vs Nakhon Pathom FC [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14241053_1999a97fe0633048898fdab92b0e8eab_autoChange.m3u8?auth_key=1795883471-0-0-aa34b58df8b07a680d2d5dc1908c6d18
 #EXTINF:-1 tvg-id="" tvg-name="Belediye Vanspor vs Bursaspor" tvg-logo="https://media2.16m50.tv/media/club/1365.webp" group-title="truct-tiep live",Belediye Vanspor vs Bursaspor [20:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/14159202_335a3fef06afc81a9d17813b49bc9aa3_autoChange.m3u8?auth_key=1795884936-0-0-d01ee470c57b6ab5c85571c8a21699a4
+https://live5.hztx2020.com/live/14159202_335a3fef06afc81a9d17813b49bc9aa3_autoChange.m3u8?auth_key=1795885056-0-0-d71a6f847c972df42851c09113579bb3
