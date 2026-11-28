@@ -86,7 +86,7 @@ https://live.hztx2020.com/live/9gklzi5lg42im7x_e0fc147f2e9d1643a8993ef101ce1878_
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Guangan Team vs Bazhong Team" tvg-logo="https://media2.16m50.tv/media/club/28167.webp" group-title="truct-tiep live",LIVE Guangan Team vs Bazhong Team [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/63kv9i6mp01fx7e_8fed7f7176a7f6e152acd78919dd3953_autoChange.m3u8?auth_key=1795885181-0-0-92a3f91a33c6beda22e79679ca635a37
+https://live.hztx2020.com/live/63kv9i6mp01fx7e_8fed7f7176a7f6e152acd78919dd3953_autoChange.m3u8?auth_key=1795885309-0-0-61bcedbac7f4be05a61cc411b9976288
 #EXTINF:-1 tvg-id="" tvg-name="LIVE China Women vs Thailand Women" tvg-logo="https://media2.16m50.tv/media/club/1004.webp" group-title="truct-tiep live",LIVE China Women vs Thailand Women [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -134,4 +134,8 @@ https://live.hztx2020.com/live/14241053_1999a97fe0633048898fdab92b0e8eab_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="Belediye Vanspor vs Bursaspor" tvg-logo="https://media2.16m50.tv/media/club/1365.webp" group-title="truct-tiep live",Belediye Vanspor vs Bursaspor [20:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/14159202_335a3fef06afc81a9d17813b49bc9aa3_autoChange.m3u8?auth_key=1795885056-0-0-d71a6f847c972df42851c09113579bb3
+https://live5.hztx2020.com/live/14159202_335a3fef06afc81a9d17813b49bc9aa3_autoChange.m3u8?auth_key=1795885299-0-0-70148fa23e3e5b0f268f21667606b332
+#EXTINF:-1 tvg-id="" tvg-name="Radnik Surdulica vs Vojvodina Novi Sad" tvg-logo="https://media2.16m50.tv/media/club/6145.webp" group-title="truct-tiep live",Radnik Surdulica vs Vojvodina Novi Sad [20:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14109757_256b9db4f9fccf01cc77018308503bed_autoChange.m3u8?auth_key=1795885310-0-0-430cec37d98e90a4b31bc91b9cd1eebf
