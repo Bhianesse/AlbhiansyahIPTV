@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Hanoi FC vs Hong Linh Ha Tinh" tvg-logo="https://media2.16m50.tv/media/club/6017.webp" group-title="truct-tiep live",LIVE Hanoi FC vs Hong Linh Ha Tinh [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14360822_93576a7ab33c7f2ecb7f837cb88eaef7_autoChange.m3u8?auth_key=1795886970-0-0-fbc88b677ef7c832a8dd83f0426705bb
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hazm Youths vs Al-Nasr Youth" tvg-logo="https://media2.16m50.tv/media/club/4930.webp" group-title="truct-tiep live",LIVE Al Hazm Youths vs Al-Nasr Youth [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14674368_cc3ede3b51a363c013792d155ecbd4be_autoChange.m3u8?auth_key=1795889264-0-0-deb4868d65e2a24bd75c0e14ff670b45
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lincoln City vs Wolverhampton Wanderers" tvg-logo="https://media2.16m50.tv/media/club/3037.webp" group-title="truct-tiep live",LIVE Lincoln City vs Wolverhampton Wanderers [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -67,7 +59,15 @@ https://live.hztx2020.com/live/14547384_3d7ea7688b50a8862845cb4aecfb637e_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14547386_41fafd328fa94e167917bf48decc6842_autoChange.m3u8?auth_key=1795887059-0-0-c9fb3989f1dc080a1f437e0a23767e43
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hada vs Al-Shoalah" tvg-logo="https://media2.16m50.tv/media/club/25550.webp" group-title="truct-tiep live",LIVE Al Hada vs Al-Shoalah [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hada vs Al-Shoalah" tvg-logo="https://media2.16m50.tv/media/club/25550.webp" group-title="truct-tiep live",LIVE Al Hada vs Al-Shoalah [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/73775080_8de83d3414ccce871ac09cdc1dfe725c_autoChange.m3u8?auth_key=1795889265-0-0-9a9959ae9654c3d6f707d57dfc88fd86
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Belediye Vanspor vs Bursaspor" tvg-logo="https://media2.16m50.tv/media/club/1365.webp" group-title="truct-tiep live",LIVE Belediye Vanspor vs Bursaspor [64']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live5.hztx2020.com/live/14159202_335a3fef06afc81a9d17813b49bc9aa3_autoChange.m3u8?auth_key=1795887085-0-0-e6270cd0514a57a90a2c499fefd00aac
+#EXTINF:-1 tvg-id="" tvg-name="Al-Wasl SC vs Al Dhafra FC" tvg-logo="https://media2.16m50.tv/media/club/249.webp" group-title="truct-tiep live",Al-Wasl SC vs Al Dhafra FC [21:15 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14721306_5c93b7464eaaf0ac57b3551f51647b93_autoChange.m3u8?auth_key=1795889591-0-0-051fe86d94653f91a5cda72c750fe769
