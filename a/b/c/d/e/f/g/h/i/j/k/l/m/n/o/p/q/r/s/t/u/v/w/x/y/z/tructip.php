@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Shenzhen Team vs Dongguan Team" tvg-logo="https://media2.16m50.tv/media/club/15214.webp" group-title="truct-tiep live",LIVE Shenzhen Team vs Dongguan Team [82']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/ezk96ij0jl6i1kn_2f6171d8b2c279603c182a91c0be1c77_autoChange.m3u8?auth_key=1795883368-0-0-5ffb31ded6ec75e2d5d4e8c37c0949e1
+https://live.hztx2020.com/live/ezk96ij0jl6i1kn_2f6171d8b2c279603c182a91c0be1c77_autoChange.m3u8?auth_key=1795886945-0-0-5e83e72347a3f1afc42ece66a5220d47
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Ganzhou Economic and Technological Development Area Team vs Dingnan Team" tvg-logo="https://media2.16m50.tv/media/club/28221.webp" group-title="truct-tiep live",LIVE Ganzhou Economic and Technological Development Area Team vs Dingnan Team [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -22,43 +22,43 @@ https://live.hztx2020.com/live/14188493_16206f2001e02d8add546c7f263967c2_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Ledong Team vs Qiongzhong Team" tvg-logo="https://media2.16m50.tv/media/club/26261.webp" group-title="truct-tiep live",LIVE Ledong Team vs Qiongzhong Team [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/wv78xi12o80fokr_15ce81c8a22959e5fdca81fdfc6e4193_autoChange.m3u8?auth_key=1795883369-0-0-803cc4b13348b9cad4e60de7cd3ff087
+https://live2.hztx2020.com/live/wv78xi12o80fokr_15ce81c8a22959e5fdca81fdfc6e4193_autoChange.m3u8?auth_key=1795886946-0-0-f01564f7872c94f43e222b8afb0e6ac6
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Panzhihua Team vs Dazhou Team" tvg-logo="https://media2.16m50.tv/media/club/28142.webp" group-title="truct-tiep live",LIVE Panzhihua Team vs Dazhou Team [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/vrqwni0odrof4qn_4efcbdf7e0f5660bc4fdfadd2745dae1_autoChange.m3u8?auth_key=1795883369-0-0-ca4dfbb97e0abf8f430f1c60519a1a28
+https://live.hztx2020.com/live/vrqwni0odrof4qn_4efcbdf7e0f5660bc4fdfadd2745dae1_autoChange.m3u8?auth_key=1795886945-0-0-da93c5a58e65b174459c29738e207da6
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Danzhou Team vs Haikou Team" tvg-logo="https://media2.16m50.tv/media/club/26264.webp" group-title="truct-tiep live",LIVE Danzhou Team vs Haikou Team [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/vmqy9iye2lotgk9_d80d85cbee5866bada9963817a3cb078_autoChange.m3u8?auth_key=1795883369-0-0-7dadf450c68f3b2e5320841a0b027c7d
+https://live1.hztx2020.com/live/vmqy9iye2lotgk9_d80d85cbee5866bada9963817a3cb078_autoChange.m3u8?auth_key=1795886945-0-0-14291ba46c242290625200eaf434bf98
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Guangyuan Team vs Suining Team" tvg-logo="https://media2.16m50.tv/media/club/28140.webp" group-title="truct-tiep live",LIVE Guangyuan Team vs Suining Team [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/xvkjoi29wgga879_e0da061364dd421284e90ff5d21661ee_autoChange.m3u8?auth_key=1795883369-0-0-4913127a81871ca18420464e53c9e9a9
+https://live.hztx2020.com/live/xvkjoi29wgga879_e0da061364dd421284e90ff5d21661ee_autoChange.m3u8?auth_key=1795886945-0-0-22df8441e9ec3a812e131b43c629c21c
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Mianyang Team vs Luzhou Team" tvg-logo="https://media2.16m50.tv/media/club/8756.webp" group-title="truct-tiep live",LIVE Mianyang Team vs Luzhou Team [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/o07dnindroycmkn_1703518294118a11adc914418bc70691_autoChange.m3u8?auth_key=1795883369-0-0-8138059ffce81975d9e7488c8d9146fd
+https://live3.hztx2020.com/live/o07dnindroycmkn_1703518294118a11adc914418bc70691_autoChange.m3u8?auth_key=1795886945-0-0-ec3b23c5d7580952a2fd60f59c1d2970
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Wanning Team vs Wuzhishan Team" tvg-logo="https://media2.16m50.tv/media/club/26180.webp" group-title="truct-tiep live",LIVE Wanning Team vs Wuzhishan Team [72']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/ndkz6i2m5lpsxq3_e4b655292a3779d6f189fe77ae6171f6_autoChange.m3u8?auth_key=1795883369-0-0-1f22c648743522288a9ec718b06274f6
+https://live1.hztx2020.com/live/ndkz6i2m5lpsxq3_e4b655292a3779d6f189fe77ae6171f6_autoChange.m3u8?auth_key=1795886945-0-0-2eb28e8920acb5e7e3173667077e4ede
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Neijiang Team vs Nanchong Team" tvg-logo="https://media2.16m50.tv/media/club/28164.webp" group-title="truct-tiep live",LIVE Neijiang Team vs Nanchong Team [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/l6kegirz2ygsv75_947225c3fb2578fcfaf2cb7e5366b99b_autoChange.m3u8?auth_key=1795883369-0-0-1b1b92b20d64e057cd39e5a3d61ca2a4
+https://live2.hztx2020.com/live/l6kegirz2ygsv75_947225c3fb2578fcfaf2cb7e5366b99b_autoChange.m3u8?auth_key=1795886945-0-0-5ceedddfef8133cde210bd8cb6a5b62c
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Meishan Team vs Ziyang Team" tvg-logo="https://media2.16m50.tv/media/club/28165.webp" group-title="truct-tiep live",LIVE Meishan Team vs Ziyang Team [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/g6763ipvz02to7r_bb3794210ad2d73dd41b1fe35e348ce4_autoChange.m3u8?auth_key=1795883369-0-0-c92c077b33f02fb8a8aeafc5af7ec51b
+https://live1.hztx2020.com/live/g6763ipvz02to7r_bb3794210ad2d73dd41b1fe35e348ce4_autoChange.m3u8?auth_key=1795886945-0-0-7f3cdad8b707366e18639bd13469275f
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Baoting Team vs Lingshui Team" tvg-logo="https://media2.16m50.tv/media/club/25850.webp" group-title="truct-tiep live",LIVE Baoting Team vs Lingshui Team [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/9gklzi5lg42im7x_e0fc147f2e9d1643a8993ef101ce1878_autoChange.m3u8?auth_key=1795883369-0-0-3b9fe62614029d0f55147d72646a7153
+https://live.hztx2020.com/live/9gklzi5lg42im7x_e0fc147f2e9d1643a8993ef101ce1878_autoChange.m3u8?auth_key=1795886945-0-0-1f5e232457118ed8ec5f6922a8a11b07
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Guangan Team vs Bazhong Team" tvg-logo="https://media2.16m50.tv/media/club/28167.webp" group-title="truct-tiep live",LIVE Guangan Team vs Bazhong Team [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/63kv9i6mp01fx7e_8fed7f7176a7f6e152acd78919dd3953_autoChange.m3u8?auth_key=1795886861-0-0-7eb553346a672c1ebf46dfb5c20482dc
+https://live.hztx2020.com/live/63kv9i6mp01fx7e_8fed7f7176a7f6e152acd78919dd3953_autoChange.m3u8?auth_key=1795886945-0-0-52fdd3d5588b4aaec3a74beb3314acda
 #EXTINF:-1 tvg-id="" tvg-name="LIVE China Women vs Thailand Women" tvg-logo="https://media2.16m50.tv/media/club/1004.webp" group-title="truct-tiep live",LIVE China Women vs Thailand Women [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -66,7 +66,7 @@ https://live.hztx2020.com/live/14693027_ffb7f799f900fc442bd0b8ed90eac60f_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE HNK Segesta Sisak vs NK Dubrava" tvg-logo="https://media2.16m50.tv/media/club/3783.webp" group-title="truct-tiep live",LIVE HNK Segesta Sisak vs NK Dubrava [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14167837_b45c9d8333ac52f8eea6596102149106_autoChange.m3u8?auth_key=1795883431-0-0-c7770505f8248db8fd257ec4540aefcd
+https://live.hztx2020.com/live/14167837_b45c9d8333ac52f8eea6596102149106_autoChange.m3u8?auth_key=1795886946-0-0-6226ea9bce2b87f169403e8e11ba65e5
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Holstein Kiel vs 1. FC Kaiserslautern" tvg-logo="https://media2.16m50.tv/media/club/2824.webp" group-title="truct-tiep live",LIVE Holstein Kiel vs 1. FC Kaiserslautern [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -82,11 +82,11 @@ https://live.hztx2020.com/live/14099488_e69e520443d9c9663e69b139a60acda8_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Persatuan Sepakbola Indonesia Jakarta vs Garudayaksa FC" tvg-logo="https://media2.16m50.tv/media/club/9604.webp" group-title="truct-tiep live",LIVE Persatuan Sepakbola Indonesia Jakarta vs Garudayaksa FC [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14302266_eaf3887314f9b787e6375b85d3328518_autoChange.m3u8?auth_key=1795883433-0-0-0d2c6a68a35a3011bcbe0a82ade871a9
+https://live2.hztx2020.com/live/14302266_eaf3887314f9b787e6375b85d3328518_autoChange.m3u8?auth_key=1795886948-0-0-7d8ea11b7e581ecc7601693e886dd9c9
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Orebro SK vs Enkoping" tvg-logo="https://media2.16m50.tv/media/club/21865.webp" group-title="truct-tiep live",LIVE Orebro SK vs Enkoping [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14669974_e14f443c62bfac008fbd2d4abe7887f7_autoChange.m3u8?auth_key=1795883432-0-0-8432451adaeb22ed6a80a0d3b83419d6
+https://live.hztx2020.com/live/14669974_e14f443c62bfac008fbd2d4abe7887f7_autoChange.m3u8?auth_key=1795886948-0-0-887ea5690e9818d290b0dc9553792079
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Madura United vs Java United F.C." tvg-logo="https://media2.16m50.tv/media/club/3493.webp" group-title="truct-tiep live",LIVE Madura United vs Java United F.C. [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -118,4 +118,4 @@ https://live1.hztx2020.com/live/14069176_799b1fea7a7b5826fe913ace4f3bda77_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="CSKA Moscow vs Zenit St. Petersburg" tvg-logo="https://media2.16m50.tv/media/club/177.webp" group-title="truct-tiep live",CSKA Moscow vs Zenit St. Petersburg [20:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/2425886_29c9b43b4f8d0f90cc48ded74507be71_autoChange.m3u8?auth_key=1795886863-0-0-25c9bf705ecf167864eb124d53cd4920
+https://live.hztx2020.com/live/2425886_29c9b43b4f8d0f90cc48ded74507be71_autoChange.m3u8?auth_key=1795886972-0-0-a6fe35fc5837e7d6077f4a182d3a67a7
