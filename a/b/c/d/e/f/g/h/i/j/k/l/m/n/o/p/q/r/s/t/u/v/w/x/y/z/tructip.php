@@ -31,10 +31,6 @@ https://live1.hztx2020.com/live/14215778_6bd87d110ba47543cb3130a613eb6034_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/14163066_65e41ce930d3dbc875bb342ddf291bc7_autoChange.m3u8?auth_key=1795886971-0-0-7390bcec12fbd658b33f405c805eb5f2
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Herfolge Boldklub Koge vs Aarhus Fremad" tvg-logo="https://media2.16m50.tv/media/club/1370.webp" group-title="truct-tiep live",LIVE Herfolge Boldklub Koge vs Aarhus Fremad [64']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live4.hztx2020.com/live/13995286_0cc2f0e9362f9f699f3ed5d3afc56ee2_autoChange.m3u8?auth_key=1795886971-0-0-66fa5331eeb4885522962f61d3f1c991
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Preston North End vs Norwich City" tvg-logo="https://media2.16m50.tv/media/club/1754.webp" group-title="truct-tiep live",LIVE Preston North End vs Norwich City [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -42,7 +38,7 @@ https://live2.hztx2020.com/live/14069174_194b5da2d714820e4216b74c072ad563_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lamphun Warriors vs Chonburi FC" tvg-logo="https://media2.16m50.tv/media/club/1120.webp" group-title="truct-tiep live",LIVE Lamphun Warriors vs Chonburi FC [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14184611_23af7a08bcf0bc5e3fa0e88d4032a220_autoChange.m3u8?auth_key=1795889971-0-0-933cd3dd6a4e8a1af199a252782271b1
+https://live.hztx2020.com/live/14184611_23af7a08bcf0bc5e3fa0e88d4032a220_autoChange.m3u8?auth_key=1795890113-0-0-91cbbbbbc6b4eee535e9108743139201
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Masfout vs Al-Rams" tvg-logo="https://media2.16m50.tv/media/club/7137.webp" group-title="truct-tiep live",LIVE Masfout vs Al-Rams [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -59,19 +55,23 @@ https://live.hztx2020.com/live/14547384_3d7ea7688b50a8862845cb4aecfb637e_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14547386_41fafd328fa94e167917bf48decc6842_autoChange.m3u8?auth_key=1795887059-0-0-c9fb3989f1dc080a1f437e0a23767e43
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hada vs Al-Shoalah" tvg-logo="https://media2.16m50.tv/media/club/25550.webp" group-title="truct-tiep live",LIVE Al Hada vs Al-Shoalah [63']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hada vs Al-Shoalah" tvg-logo="https://media2.16m50.tv/media/club/25550.webp" group-title="truct-tiep live",LIVE Al Hada vs Al-Shoalah [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/73775080_8de83d3414ccce871ac09cdc1dfe725c_autoChange.m3u8?auth_key=1795889983-0-0-b6404278e3085486a5ef2e1bdd633cab
+https://live.hztx2020.com/live/73775080_8de83d3414ccce871ac09cdc1dfe725c_autoChange.m3u8?auth_key=1795890083-0-0-09dbe032c4a267e706ec755ab18e5c93
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Belediye Vanspor vs Bursaspor" tvg-logo="https://media2.16m50.tv/media/club/1365.webp" group-title="truct-tiep live",LIVE Belediye Vanspor vs Bursaspor [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/14159202_335a3fef06afc81a9d17813b49bc9aa3_autoChange.m3u8?auth_key=1795887085-0-0-e6270cd0514a57a90a2c499fefd00aac
-#EXTINF:-1 tvg-id="" tvg-name="Al-Wasl SC vs Al Dhafra FC" tvg-logo="https://media2.16m50.tv/media/club/249.webp" group-title="truct-tiep live",Al-Wasl SC vs Al Dhafra FC [21:15 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Radnik Surdulica vs Vojvodina Novi Sad" tvg-logo="https://media2.16m50.tv/media/club/6145.webp" group-title="truct-tiep live",LIVE Radnik Surdulica vs Vojvodina Novi Sad [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14721306_5c93b7464eaaf0ac57b3551f51647b93_autoChange.m3u8?auth_key=1795889982-0-0-508e3c6daad933f3b993cae1bbac5dfd
-#EXTINF:-1 tvg-id="" tvg-name="Al Ettifaq vs Al Hilal" tvg-logo="https://media2.16m50.tv/media/club/13167.webp" group-title="truct-tiep live",Al Ettifaq vs Al Hilal [21:20 WIB]
+https://live3.hztx2020.com/live/14109757_256b9db4f9fccf01cc77018308503bed_autoChange.m3u8?auth_key=1795887085-0-0-f1dfd474e48cc2aa721e902fca1870de
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1. FC Saarbrücken vs Alemannia Aachen" tvg-logo="https://media2.16m50.tv/media/club/179.webp" group-title="truct-tiep live",LIVE 1. FC Saarbrücken vs Alemannia Aachen [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14674369_c4a20f8439eefabb0b6fbb93b82bdfa1_autoChange.m3u8?auth_key=1795889982-0-0-48bc8f78fab6ff4661147c27a259faf0
+https://live.hztx2020.com/live/14142780_d9d06d3dc1a2c9c3b629422c4bbf3f77_autoChange.m3u8?auth_key=1795887085-0-0-8ac67f5bff2a050e857a52e63420d0ad
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Waldhof Mannheim vs VfB Stuttgart II" tvg-logo="https://media2.16m50.tv/media/club/19438.webp" group-title="truct-tiep live",LIVE Waldhof Mannheim vs VfB Stuttgart II [63']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14142783_f78c1b47d45aba597b96aa5f7334afe4_autoChange.m3u8?auth_key=1795887085-0-0-a4c913f7247c529770dc48c43fbadf5b
