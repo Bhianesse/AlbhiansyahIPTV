@@ -95,3 +95,7 @@ https://live1.hztx2020.com/live/14069176_799b1fea7a7b5826fe913ace4f3bda77_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14716256_f1c9c9fe8369c9cbd5f9de965cbdb1bd_autoChange.m3u8?auth_key=1795887040-0-0-835e7f28f0a68ae62ccabb0f6c1c1c51
+#EXTINF:-1 tvg-id="" tvg-name="Widzew lodz vs Zaglebie Lubin" tvg-logo="https://media2.16m50.tv/media/club/5024.webp" group-title="truct-tiep live",Widzew lodz vs Zaglebie Lubin [20:45 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14058564_2f86eaac0d7aca429cdbd771df69d032_autoChange.m3u8?auth_key=1795887553-0-0-01c099053a4bea0c69ca1f5146165069
