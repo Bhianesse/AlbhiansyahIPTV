@@ -54,7 +54,7 @@ https://live1.hztx2020.com/live/14360822_93576a7ab33c7f2ecb7f837cb88eaef7_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hazm Youths vs Al-Nasr Youth" tvg-logo="https://media2.16m50.tv/media/club/4930.webp" group-title="truct-tiep live",LIVE Al Hazm Youths vs Al-Nasr Youth [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14674368_cc3ede3b51a363c013792d155ecbd4be_autoChange.m3u8?auth_key=1795887825-0-0-77aafc5ac25886d5ad78c4eef1e449d9
+https://live.hztx2020.com/live/14674368_cc3ede3b51a363c013792d155ecbd4be_autoChange.m3u8?auth_key=1795887935-0-0-4cccee352cb3222d3edd59d92cb039bd
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lincoln City vs Wolverhampton Wanderers" tvg-logo="https://media2.16m50.tv/media/club/3037.webp" group-title="truct-tiep live",LIVE Lincoln City vs Wolverhampton Wanderers [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -70,4 +70,4 @@ https://live3.hztx2020.com/live/14075848_9463d3811e69d3426f3f9611a6cb2ee8_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="Widzew lodz vs Zaglebie Lubin" tvg-logo="https://media2.16m50.tv/media/club/5024.webp" group-title="truct-tiep live",Widzew lodz vs Zaglebie Lubin [20:45 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14058564_2f86eaac0d7aca429cdbd771df69d032_autoChange.m3u8?auth_key=1795887824-0-0-2873cd747adab7d5922db2197493c499
+https://live.hztx2020.com/live/14058564_2f86eaac0d7aca429cdbd771df69d032_autoChange.m3u8?auth_key=1795887934-0-0-8ab3b73c4336a82fb1ce62e72d679f85
