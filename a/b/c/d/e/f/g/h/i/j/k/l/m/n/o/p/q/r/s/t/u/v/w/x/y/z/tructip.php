@@ -6,7 +6,7 @@ https://live1.hztx2020.com/live/14360822_93576a7ab33c7f2ecb7f837cb88eaef7_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hazm Youths vs Al-Nasr Youth" tvg-logo="https://media2.16m50.tv/media/club/4930.webp" group-title="truct-tiep live",LIVE Al Hazm Youths vs Al-Nasr Youth [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14674368_cc3ede3b51a363c013792d155ecbd4be_autoChange.m3u8?auth_key=1795889250-0-0-fe987b0b631c84bfaac3411fa30ad701
+https://live.hztx2020.com/live/14674368_cc3ede3b51a363c013792d155ecbd4be_autoChange.m3u8?auth_key=1795889264-0-0-deb4868d65e2a24bd75c0e14ff670b45
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lincoln City vs Wolverhampton Wanderers" tvg-logo="https://media2.16m50.tv/media/club/3037.webp" group-title="truct-tiep live",LIVE Lincoln City vs Wolverhampton Wanderers [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -50,7 +50,7 @@ https://live2.hztx2020.com/live/14069174_194b5da2d714820e4216b74c072ad563_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lamphun Warriors vs Chonburi FC" tvg-logo="https://media2.16m50.tv/media/club/1120.webp" group-title="truct-tiep live",LIVE Lamphun Warriors vs Chonburi FC [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14184611_23af7a08bcf0bc5e3fa0e88d4032a220_autoChange.m3u8?auth_key=1795889253-0-0-7def6a98f6deb8c3391455e8dedbd711
+https://live.hztx2020.com/live/14184611_23af7a08bcf0bc5e3fa0e88d4032a220_autoChange.m3u8?auth_key=1795889267-0-0-b4650cd7619c035ae77978f5f388b8f2
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Masfout vs Al-Rams" tvg-logo="https://media2.16m50.tv/media/club/7137.webp" group-title="truct-tiep live",LIVE Masfout vs Al-Rams [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -70,4 +70,4 @@ https://live.hztx2020.com/live/14547386_41fafd328fa94e167917bf48decc6842_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hada vs Al-Shoalah" tvg-logo="https://media2.16m50.tv/media/club/25550.webp" group-title="truct-tiep live",LIVE Al Hada vs Al-Shoalah [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/73775080_8de83d3414ccce871ac09cdc1dfe725c_autoChange.m3u8?auth_key=1795889251-0-0-a7f4755f0d7d6fc9358958baee0f7439
+https://live.hztx2020.com/live/73775080_8de83d3414ccce871ac09cdc1dfe725c_autoChange.m3u8?auth_key=1795889265-0-0-9a9959ae9654c3d6f707d57dfc88fd86
