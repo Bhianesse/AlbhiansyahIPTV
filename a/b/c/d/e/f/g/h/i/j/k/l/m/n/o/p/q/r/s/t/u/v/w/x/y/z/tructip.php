@@ -59,6 +59,10 @@ https://live.hztx2020.com/live/14437757_9d328848b2fdcf57fe6411282e58819f_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/76810838_eee7cbdfbd005620539b4c0bb4a9e69f_autoChange.m3u8?auth_key=1795879785-0-0-f04966e6bd50eae559258bba5deeb8b4
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Quang Ninh vs Ho Chi Minh City" tvg-logo="https://media2.16m50.tv/media/club/1057.webp" group-title="truct-tiep live",LIVE Quang Ninh vs Ho Chi Minh City [61']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/63kv9igd52zfx7e_9f694c3dabe0bffac3bca11dba63add4_autoChange.m3u8?auth_key=1795879783-0-0-7d6b07604f26c4d9463d084b6361fdf4
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Gornik Leczna vs Swit Szczecin" tvg-logo="https://media2.16m50.tv/media/club/4883.webp" group-title="truct-tiep live",LIVE Gornik Leczna vs Swit Szczecin [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -158,4 +162,4 @@ https://live1.hztx2020.com/live/14099735_d378d9ff36576947be8d7f98557f5697_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Hertha Berlin vs Karlsruher SC" tvg-logo="https://media2.16m50.tv/media/club/6079.webp" group-title="truct-tiep live",LIVE Hertha Berlin vs Karlsruher SC [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14099488_e69e520443d9c9663e69b139a60acda8_autoChange.m3u8?auth_key=1795882297-0-0-f2197e874add5c2b8d4b1f41619d7b3a
+https://live.hztx2020.com/live/14099488_e69e520443d9c9663e69b139a60acda8_autoChange.m3u8?auth_key=1795882403-0-0-ded26aa33e6de33def9755f7778cb8b5
