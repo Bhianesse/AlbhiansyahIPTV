@@ -83,7 +83,7 @@ https://live.hztx2020.com/live/14188493_16206f2001e02d8add546c7f263967c2_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14219314_b1b3be21f265804cd0663e0ac2ee1179_autoChange.m3u8?auth_key=1795883367-0-0-660e0f5e1e0b06d98b8545ae9d3ea850
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Ledong Team vs Qiongzhong Team" tvg-logo="https://media2.16m50.tv/media/club/26261.webp" group-title="truct-tiep live",LIVE Ledong Team vs Qiongzhong Team [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Ledong Team vs Qiongzhong Team" tvg-logo="https://media2.16m50.tv/media/club/26261.webp" group-title="truct-tiep live",LIVE Ledong Team vs Qiongzhong Team [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/wv78xi12o80fokr_15ce81c8a22959e5fdca81fdfc6e4193_autoChange.m3u8?auth_key=1795883369-0-0-803cc4b13348b9cad4e60de7cd3ff087
@@ -91,7 +91,7 @@ https://live2.hztx2020.com/live/wv78xi12o80fokr_15ce81c8a22959e5fdca81fdfc6e4193
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/vrqwni0odrof4qn_4efcbdf7e0f5660bc4fdfadd2745dae1_autoChange.m3u8?auth_key=1795883369-0-0-ca4dfbb97e0abf8f430f1c60519a1a28
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Danzhou Team vs Haikou Team" tvg-logo="https://media2.16m50.tv/media/club/26264.webp" group-title="truct-tiep live",LIVE Danzhou Team vs Haikou Team [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Danzhou Team vs Haikou Team" tvg-logo="https://media2.16m50.tv/media/club/26264.webp" group-title="truct-tiep live",LIVE Danzhou Team vs Haikou Team [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/vmqy9iye2lotgk9_d80d85cbee5866bada9963817a3cb078_autoChange.m3u8?auth_key=1795883369-0-0-7dadf450c68f3b2e5320841a0b027c7d
@@ -107,22 +107,22 @@ https://live3.hztx2020.com/live/o07dnindroycmkn_1703518294118a11adc914418bc70691
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/ndkz6i2m5lpsxq3_e4b655292a3779d6f189fe77ae6171f6_autoChange.m3u8?auth_key=1795883369-0-0-1f22c648743522288a9ec718b06274f6
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Neijiang Team vs Nanchong Team" tvg-logo="https://media2.16m50.tv/media/club/28164.webp" group-title="truct-tiep live",LIVE Neijiang Team vs Nanchong Team [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Neijiang Team vs Nanchong Team" tvg-logo="https://media2.16m50.tv/media/club/28164.webp" group-title="truct-tiep live",LIVE Neijiang Team vs Nanchong Team [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/l6kegirz2ygsv75_947225c3fb2578fcfaf2cb7e5366b99b_autoChange.m3u8?auth_key=1795883369-0-0-1b1b92b20d64e057cd39e5a3d61ca2a4
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Meishan Team vs Ziyang Team" tvg-logo="https://media2.16m50.tv/media/club/28165.webp" group-title="truct-tiep live",LIVE Meishan Team vs Ziyang Team [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Meishan Team vs Ziyang Team" tvg-logo="https://media2.16m50.tv/media/club/28165.webp" group-title="truct-tiep live",LIVE Meishan Team vs Ziyang Team [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/g6763ipvz02to7r_bb3794210ad2d73dd41b1fe35e348ce4_autoChange.m3u8?auth_key=1795883369-0-0-c92c077b33f02fb8a8aeafc5af7ec51b
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Baoting Team vs Lingshui Team" tvg-logo="https://media2.16m50.tv/media/club/25850.webp" group-title="truct-tiep live",LIVE Baoting Team vs Lingshui Team [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Baoting Team vs Lingshui Team" tvg-logo="https://media2.16m50.tv/media/club/25850.webp" group-title="truct-tiep live",LIVE Baoting Team vs Lingshui Team [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/9gklzi5lg42im7x_e0fc147f2e9d1643a8993ef101ce1878_autoChange.m3u8?auth_key=1795883369-0-0-3b9fe62614029d0f55147d72646a7153
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Guangan Team vs Bazhong Team" tvg-logo="https://media2.16m50.tv/media/club/28167.webp" group-title="truct-tiep live",LIVE Guangan Team vs Bazhong Team [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Guangan Team vs Bazhong Team" tvg-logo="https://media2.16m50.tv/media/club/28167.webp" group-title="truct-tiep live",LIVE Guangan Team vs Bazhong Team [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/63kv9i6mp01fx7e_8fed7f7176a7f6e152acd78919dd3953_autoChange.m3u8?auth_key=1795884463-0-0-03b89edb512af8d57ae51591e7e76adf
+https://live.hztx2020.com/live/63kv9i6mp01fx7e_8fed7f7176a7f6e152acd78919dd3953_autoChange.m3u8?auth_key=1795884573-0-0-1e3e9c93cf62445401b744a36b9a4568
 #EXTINF:-1 tvg-id="" tvg-name="LIVE China Women vs Thailand Women" tvg-logo="https://media2.16m50.tv/media/club/1004.webp" group-title="truct-tiep live",LIVE China Women vs Thailand Women [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -147,7 +147,7 @@ https://live.hztx2020.com/live/14099488_e69e520443d9c9663e69b139a60acda8_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14302266_eaf3887314f9b787e6375b85d3328518_autoChange.m3u8?auth_key=1795883433-0-0-0d2c6a68a35a3011bcbe0a82ade871a9
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Orebro SK vs Enkoping" tvg-logo="https://media2.16m50.tv/media/club/21865.webp" group-title="truct-tiep live",LIVE Orebro SK vs Enkoping [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Orebro SK vs Enkoping" tvg-logo="https://media2.16m50.tv/media/club/21865.webp" group-title="truct-tiep live",LIVE Orebro SK vs Enkoping [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14669974_e14f443c62bfac008fbd2d4abe7887f7_autoChange.m3u8?auth_key=1795883432-0-0-8432451adaeb22ed6a80a0d3b83419d6
