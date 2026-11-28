@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Shenzhen Team vs Dongguan Team" tvg-logo="https://media2.16m50.tv/media/club/15214.webp" group-title="truct-tiep live",LIVE Shenzhen Team vs Dongguan Team [82']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/ezk96ij0jl6i1kn_2f6171d8b2c279603c182a91c0be1c77_autoChange.m3u8?auth_key=1795886945-0-0-5e83e72347a3f1afc42ece66a5220d47
-#EXTINF:-1 tvg-id="" tvg-name="LIVE HNK Segesta Sisak vs NK Dubrava" tvg-logo="https://media2.16m50.tv/media/club/3783.webp" group-title="truct-tiep live",LIVE HNK Segesta Sisak vs NK Dubrava [66']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14167837_b45c9d8333ac52f8eea6596102149106_autoChange.m3u8?auth_key=1795886946-0-0-6226ea9bce2b87f169403e8e11ba65e5
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Holstein Kiel vs 1. FC Kaiserslautern" tvg-logo="https://media2.16m50.tv/media/club/2824.webp" group-title="truct-tiep live",LIVE Holstein Kiel vs 1. FC Kaiserslautern [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -43,7 +35,7 @@ https://live4.hztx2020.com/live/13995283_99db34d4e14e6e0de93fafa9a5f12571_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14241053_1999a97fe0633048898fdab92b0e8eab_autoChange.m3u8?auth_key=1795886972-0-0-7562249e1e4b1052e9f929b5d32f1725
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Juventus Youth vs Verona Youth" tvg-logo="https://media2.16m50.tv/media/club/22175.webp" group-title="truct-tiep live",LIVE Juventus Youth vs Verona Youth [66']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Juventus Youth vs Verona Youth" tvg-logo="https://media2.16m50.tv/media/club/22175.webp" group-title="truct-tiep live",LIVE Juventus Youth vs Verona Youth [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/9gklzi1djmocm7x_c6711b5ed5d020a303b7163b27226e73_autoChange.m3u8?auth_key=1795886969-0-0-78cda9c1734d0e88ddaeb0e18f53402b
@@ -54,12 +46,12 @@ https://live1.hztx2020.com/live/14360822_93576a7ab33c7f2ecb7f837cb88eaef7_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hazm Youths vs Al-Nasr Youth" tvg-logo="https://media2.16m50.tv/media/club/4930.webp" group-title="truct-tiep live",LIVE Al Hazm Youths vs Al-Nasr Youth [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14674368_cc3ede3b51a363c013792d155ecbd4be_autoChange.m3u8?auth_key=1795887935-0-0-4cccee352cb3222d3edd59d92cb039bd
+https://live.hztx2020.com/live/14674368_cc3ede3b51a363c013792d155ecbd4be_autoChange.m3u8?auth_key=1795888056-0-0-a4ffdcc8144146927a2c36395a19d445
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lincoln City vs Wolverhampton Wanderers" tvg-logo="https://media2.16m50.tv/media/club/3037.webp" group-title="truct-tiep live",LIVE Lincoln City vs Wolverhampton Wanderers [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14069176_799b1fea7a7b5826fe913ace4f3bda77_autoChange.m3u8?auth_key=1795887049-0-0-b664a823596d40f5d364a3a0ca7aca92
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Ra SC vs Cascada" tvg-logo="https://media2.16m50.tv/media/club/22482.webp" group-title="truct-tiep live",LIVE Ra SC vs Cascada [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Ra SC vs Cascada" tvg-logo="https://media2.16m50.tv/media/club/22482.webp" group-title="truct-tiep live",LIVE Ra SC vs Cascada [73']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14716256_f1c9c9fe8369c9cbd5f9de965cbdb1bd_autoChange.m3u8?auth_key=1795887040-0-0-835e7f28f0a68ae62ccabb0f6c1c1c51
@@ -67,7 +59,3 @@ https://live.hztx2020.com/live/14716256_f1c9c9fe8369c9cbd5f9de965cbdb1bd_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14075848_9463d3811e69d3426f3f9611a6cb2ee8_autoChange.m3u8?auth_key=1795887049-0-0-dbe8f16cd8cf62ea7bf81d8bed6063d1
-#EXTINF:-1 tvg-id="" tvg-name="Widzew lodz vs Zaglebie Lubin" tvg-logo="https://media2.16m50.tv/media/club/5024.webp" group-title="truct-tiep live",Widzew lodz vs Zaglebie Lubin [20:45 WIB]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14058564_2f86eaac0d7aca429cdbd771df69d032_autoChange.m3u8?auth_key=1795887934-0-0-8ab3b73c4336a82fb1ce62e72d679f85
