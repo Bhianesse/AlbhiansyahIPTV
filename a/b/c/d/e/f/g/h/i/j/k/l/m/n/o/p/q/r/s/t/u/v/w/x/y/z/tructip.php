@@ -10,7 +10,7 @@ https://live1.hztx2020.com/live/14360822_93576a7ab33c7f2ecb7f837cb88eaef7_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hazm Youths vs Al-Nasr Youth" tvg-logo="https://media2.16m50.tv/media/club/4930.webp" group-title="truct-tiep live",LIVE Al Hazm Youths vs Al-Nasr Youth [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14674368_cc3ede3b51a363c013792d155ecbd4be_autoChange.m3u8?auth_key=1795888766-0-0-43a1f58303fa3e723c5e428dcc6c5298
+https://live.hztx2020.com/live/14674368_cc3ede3b51a363c013792d155ecbd4be_autoChange.m3u8?auth_key=1795888891-0-0-f6dc158e5576721f993578b3c08713fd
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lincoln City vs Wolverhampton Wanderers" tvg-logo="https://media2.16m50.tv/media/club/3037.webp" group-title="truct-tiep live",LIVE Lincoln City vs Wolverhampton Wanderers [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -54,7 +54,7 @@ https://live2.hztx2020.com/live/14069174_194b5da2d714820e4216b74c072ad563_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lamphun Warriors vs Chonburi FC" tvg-logo="https://media2.16m50.tv/media/club/1120.webp" group-title="truct-tiep live",LIVE Lamphun Warriors vs Chonburi FC [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14184611_23af7a08bcf0bc5e3fa0e88d4032a220_autoChange.m3u8?auth_key=1795888770-0-0-f89bd646b0c16ecd73cfc0010653df09
+https://live.hztx2020.com/live/14184611_23af7a08bcf0bc5e3fa0e88d4032a220_autoChange.m3u8?auth_key=1795888893-0-0-ce3fcd754b4d3a3cc9a712a40155bd84
 #EXTINF:-1 tvg-id="" tvg-name="GD Chaves vs CD Tondela" tvg-logo="https://media2.16m50.tv/media/club/1439.webp" group-title="truct-tiep live",GD Chaves vs CD Tondela [21:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -62,15 +62,15 @@ https://live5.hztx2020.com/live/14103256_ef5802bdfb0e38f0aae1e96815d03c92_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="Norrby IF vs Lunds BK" tvg-logo="https://media2.16m50.tv/media/club/2924.webp" group-title="truct-tiep live",Norrby IF vs Lunds BK [21:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14667361_f5b4e6cb0c0d34e258159a532c10aa4c_autoChange.m3u8?auth_key=1795888646-0-0-8ea88a8675feb887e29a30023696af88
+https://live3.hztx2020.com/live/14667361_f5b4e6cb0c0d34e258159a532c10aa4c_autoChange.m3u8?auth_key=1795888892-0-0-cbd0ed1093b90d6a1ebbb3dec50ee505
 #EXTINF:-1 tvg-id="" tvg-name="Folgore/Falciano vs Fiorentino" tvg-logo="https://media2.16m50.tv/media/club/6430.webp" group-title="truct-tiep live",Folgore/Falciano vs Fiorentino [21:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/2438191_67384936953e3a23975888b975a5cb44_autoChange.m3u8?auth_key=1795888647-0-0-6481a9dab25a5bb62fd288ed5218d1e5
+https://live.hztx2020.com/live/2438191_67384936953e3a23975888b975a5cb44_autoChange.m3u8?auth_key=1795888893-0-0-89d4665cc0cf0afa6200d43a11f3ea4d
 #EXTINF:-1 tvg-id="" tvg-name="Al-Arabi(JOR) vs Al-Faisaly Amman" tvg-logo="https://media2.16m50.tv/media/club/22760.webp" group-title="truct-tiep live",Al-Arabi(JOR) vs Al-Faisaly Amman [21:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14527956_200c2c791d5ba835cda1e187bd50bd10_autoChange.m3u8?auth_key=1795888646-0-0-da0f662f4f5d6099d3a72a857f93c2af
+https://live1.hztx2020.com/live/14527956_200c2c791d5ba835cda1e187bd50bd10_autoChange.m3u8?auth_key=1795888892-0-0-391413e03122638809fdf037c67a9ca7
 #EXTINF:-1 tvg-id="" tvg-name="Frosinone vs Parma" tvg-logo="https://media2.16m50.tv/media/club/347.webp" group-title="truct-tiep live",Frosinone vs Parma [21:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -86,7 +86,7 @@ https://live1.hztx2020.com/live/76224056_c8c74698f70375de1b02779dc05470ff_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="AC Juvenes vs Murata" tvg-logo="https://media2.16m50.tv/media/club/442.webp" group-title="truct-tiep live",AC Juvenes vs Murata [21:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/2438205_74afb15323c2b6005a09e6c7426506ac_autoChange.m3u8?auth_key=1795888647-0-0-fc87e0c6281216455e64f2dd846d9c30
+https://live5.hztx2020.com/live/2438205_74afb15323c2b6005a09e6c7426506ac_autoChange.m3u8?auth_key=1795888893-0-0-8bfbe4c2653dca67c52825d2951dc771
 #EXTINF:-1 tvg-id="" tvg-name="Chennaiyin FC vs Mumbai City FC" tvg-logo="https://media2.16m50.tv/media/club/3772.webp" group-title="truct-tiep live",Chennaiyin FC vs Mumbai City FC [21:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
