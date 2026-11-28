@@ -38,7 +38,7 @@ https://live2.hztx2020.com/live/14069174_194b5da2d714820e4216b74c072ad563_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lamphun Warriors vs Chonburi FC" tvg-logo="https://media2.16m50.tv/media/club/1120.webp" group-title="truct-tiep live",LIVE Lamphun Warriors vs Chonburi FC [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14184611_23af7a08bcf0bc5e3fa0e88d4032a220_autoChange.m3u8?auth_key=1795890113-0-0-91cbbbbbc6b4eee535e9108743139201
+https://live.hztx2020.com/live/14184611_23af7a08bcf0bc5e3fa0e88d4032a220_autoChange.m3u8?auth_key=1795890224-0-0-f552856285037c03b41137583347c860
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Masfout vs Al-Rams" tvg-logo="https://media2.16m50.tv/media/club/7137.webp" group-title="truct-tiep live",LIVE Masfout vs Al-Rams [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -58,7 +58,7 @@ https://live.hztx2020.com/live/14547386_41fafd328fa94e167917bf48decc6842_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hada vs Al-Shoalah" tvg-logo="https://media2.16m50.tv/media/club/25550.webp" group-title="truct-tiep live",LIVE Al Hada vs Al-Shoalah [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/73775080_8de83d3414ccce871ac09cdc1dfe725c_autoChange.m3u8?auth_key=1795890083-0-0-09dbe032c4a267e706ec755ab18e5c93
+https://live.hztx2020.com/live/73775080_8de83d3414ccce871ac09cdc1dfe725c_autoChange.m3u8?auth_key=1795890223-0-0-6aa71bb264565286455e0e5822f26604
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Belediye Vanspor vs Bursaspor" tvg-logo="https://media2.16m50.tv/media/club/1365.webp" group-title="truct-tiep live",LIVE Belediye Vanspor vs Bursaspor [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
