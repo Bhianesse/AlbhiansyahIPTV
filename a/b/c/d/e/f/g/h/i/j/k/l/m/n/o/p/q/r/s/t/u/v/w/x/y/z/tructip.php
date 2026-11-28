@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hazm Youths vs Al-Nasr Youth" tvg-logo="https://media2.16m50.tv/media/club/4930.webp" group-title="truct-tiep live",LIVE Al Hazm Youths vs Al-Nasr Youth [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/m2q15izo8x8be76_66eb8ac7afce4fab2752f64506c35611_autoChange.m3u8?auth_key=1795889847-0-0-c5c695528fba0abd2de35cfb13a794f3
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lincoln City vs Wolverhampton Wanderers" tvg-logo="https://media2.16m50.tv/media/club/3037.webp" group-title="truct-tiep live",LIVE Lincoln City vs Wolverhampton Wanderers [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -46,7 +42,7 @@ https://live2.hztx2020.com/live/14069174_194b5da2d714820e4216b74c072ad563_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lamphun Warriors vs Chonburi FC" tvg-logo="https://media2.16m50.tv/media/club/1120.webp" group-title="truct-tiep live",LIVE Lamphun Warriors vs Chonburi FC [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14184611_23af7a08bcf0bc5e3fa0e88d4032a220_autoChange.m3u8?auth_key=1795889859-0-0-8e6ee043d7c39892a8fe9935950d7083
+https://live.hztx2020.com/live/14184611_23af7a08bcf0bc5e3fa0e88d4032a220_autoChange.m3u8?auth_key=1795889971-0-0-933cd3dd6a4e8a1af199a252782271b1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Masfout vs Al-Rams" tvg-logo="https://media2.16m50.tv/media/club/7137.webp" group-title="truct-tiep live",LIVE Masfout vs Al-Rams [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -66,7 +62,7 @@ https://live.hztx2020.com/live/14547386_41fafd328fa94e167917bf48decc6842_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Hada vs Al-Shoalah" tvg-logo="https://media2.16m50.tv/media/club/25550.webp" group-title="truct-tiep live",LIVE Al Hada vs Al-Shoalah [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/73775080_8de83d3414ccce871ac09cdc1dfe725c_autoChange.m3u8?auth_key=1795889858-0-0-48052f69cc4611507654e42a392d4b2a
+https://live.hztx2020.com/live/73775080_8de83d3414ccce871ac09cdc1dfe725c_autoChange.m3u8?auth_key=1795889983-0-0-b6404278e3085486a5ef2e1bdd633cab
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Belediye Vanspor vs Bursaspor" tvg-logo="https://media2.16m50.tv/media/club/1365.webp" group-title="truct-tiep live",LIVE Belediye Vanspor vs Bursaspor [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -74,8 +70,8 @@ https://live5.hztx2020.com/live/14159202_335a3fef06afc81a9d17813b49bc9aa3_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="Al-Wasl SC vs Al Dhafra FC" tvg-logo="https://media2.16m50.tv/media/club/249.webp" group-title="truct-tiep live",Al-Wasl SC vs Al Dhafra FC [21:15 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14721306_5c93b7464eaaf0ac57b3551f51647b93_autoChange.m3u8?auth_key=1795889856-0-0-d205a357d6f0770c74903bb67d83bd3a
+https://live.hztx2020.com/live/14721306_5c93b7464eaaf0ac57b3551f51647b93_autoChange.m3u8?auth_key=1795889982-0-0-508e3c6daad933f3b993cae1bbac5dfd
 #EXTINF:-1 tvg-id="" tvg-name="Al Ettifaq vs Al Hilal" tvg-logo="https://media2.16m50.tv/media/club/13167.webp" group-title="truct-tiep live",Al Ettifaq vs Al Hilal [21:20 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14674369_c4a20f8439eefabb0b6fbb93b82bdfa1_autoChange.m3u8?auth_key=1795889856-0-0-ec1a73971074f728203ad064ae78b77d
+https://live.hztx2020.com/live/14674369_c4a20f8439eefabb0b6fbb93b82bdfa1_autoChange.m3u8?auth_key=1795889982-0-0-48bc8f78fab6ff4661147c27a259faf0
